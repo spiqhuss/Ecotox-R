@@ -1,4 +1,4 @@
-o1-Dose-response Modeling
+o1-Ecotox-Exercises
 ## ----------------------------------------
 library(drc)
 # R package that contains the data
